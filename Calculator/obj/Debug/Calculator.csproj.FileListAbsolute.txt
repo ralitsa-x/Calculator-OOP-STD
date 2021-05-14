@@ -1,0 +1,10 @@
+C:\Users\P50\Desktop\uni\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\P50\Desktop\uni\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\P50\Desktop\uni\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\P50\Desktop\uni\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\P50\Desktop\uni\Calculator\Calculator\obj\Debug\Calculator.Calculator.resources
+C:\Users\P50\Desktop\uni\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\P50\Desktop\uni\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\P50\Desktop\uni\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\P50\Desktop\uni\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\P50\Desktop\uni\Calculator\Calculator\obj\Debug\Calculator.pdb
